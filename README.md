@@ -64,3 +64,23 @@ bash install.sh
 >>>
 
 ```
+## I recommend watching
+
+1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a>
+
+2.<a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack - Easy email hacking</a>
+
+3.<a href="https://github.com/mishakorzik/AdminHack">AdminHack - Hacking bad sites</a>
+
+4.<a href="https://github.com/mishakorzik/Infect">Infect - Easy virus creation</a>
+
+5.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a>
+
+6.<a href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - System for large hacking</a>
+
+7.<a href="https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a>
+
+## Supporters
+[![Stargazers repo roster for @mishakorzik/Spower](https://reporoster.com/stars/mishakorzik/Spower)](https://github.com/mishakorzik/Spower/stargazers)
+[![Forkers repo roster for @mishakorzik/Spower](https://reporoster.com/forks/mishakorzik/Spower)](https://github.com/mishakorzik/Spower/members)
+
