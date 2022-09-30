@@ -6,8 +6,12 @@ pip install spower
 ```
 
 **With manual**
-```
-
+```bash
+pip install googlesearcher
+pip install shodan
+pip install urllib3
+wget --no-check-certificate "https://raw.githubusercontent.com/mishakorzik/Spower/main/install.sh"
+bash install.sh
 ```
 
 - [x] Easy to use
