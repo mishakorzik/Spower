@@ -1,3 +1,5 @@
+<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/Spower/main/export202209301252058087.png"/>
+
 <p align="center">
 <a href="https://github.com/mishakorzik/IpHack"><img title="Version" src="https://img.shields.io/badge/Build-done-darkgreen?style=for-the-badge&logo="></a>
 <a href="https://github.com/mishakorzik/IpHack/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/Apache-License 2.0-green?style=for-the-badge&logo=apache"></a>
